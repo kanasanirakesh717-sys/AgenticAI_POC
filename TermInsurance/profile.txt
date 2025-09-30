@@ -1,0 +1,6 @@
+name=Chuduru sai
+age=26
+jobType=IT
+salary=600000
+cibilscore=710
+email=rtempo54@gmail.com
